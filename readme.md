@@ -46,15 +46,3 @@ Before you begin, ensure you have the following prerequisites:
 
 📱 Moreover, I've ensured that the website is fully responsive on all screens, making it accessible and user-friendly across various devices. 📱💡
 
-## Contributing 
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](/issues).
-
-## Show your support 
-
-Give a ⭐️ if you like this project!
-
-
-## License
-
-This project is **free to use** and does not contains any license.
